@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+scaled_test/__init__.py
+scaled_test/items.py
+scaled_test/middlewares.py
+scaled_test/pipelines.py
+scaled_test/settings.py
+scaled_test/spiders/__init__.py
+scaled_test/spiders/zapi_scale.py
